@@ -1,0 +1,72 @@
+[
+    {
+        "year": 2024,
+        "month": 1,
+        "month_name": "January",
+        "amount": 25000.45,
+        "purpose": "education"
+    },
+    {
+        "year": 2021,
+        "month": 6,
+        "month_name": "June",
+        "amount": 32015.99,
+        "purpose": "business"
+    },
+    {
+        "year": 2023,
+        "month": 4,
+        "month_name": "April",
+        "amount": 18643.76,
+        "purpose": "medical"
+    },
+    {
+        "year": 2022,
+        "month": 2,
+        "month_name": "February",
+        "amount": 13987.33,
+        "purpose": "education"
+    },
+    {
+        "year": 2020,
+        "month": 9,
+        "month_name": "September",
+        "amount": 41326.45,
+        "purpose": "business"
+    },
+    {
+        "year": 2021,
+        "month": 11,
+        "month_name": "November",
+        "amount": 29645.85,
+        "purpose": "medical"
+    },
+    {
+        "year": 2019,
+        "month": 12,
+        "month_name": "December",
+        "amount": 18792.47,
+        "purpose": "education"
+    },
+    {
+        "year": 2024,
+        "month": 5,
+        "month_name": "May",
+        "amount": 22211.14,
+        "purpose": "development"
+    },
+    {
+        "year": 2023,
+        "month": 8,
+        "month_name": "August",
+        "amount": 25784.98,
+        "purpose": "business"
+    },
+    {
+        "year": 2020,
+        "month": 3,
+        "month_name": "March",
+        "amount": 19312.60,
+        "purpose": "medical"
+    }
+]
