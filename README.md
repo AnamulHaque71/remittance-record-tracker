@@ -61,20 +61,19 @@ Data is stored in a JSON file named `remittance_data.json`. Each record has the 
 ## Example Output
 
 ### 1. Sample Table
-```plaintext
-+------------+-------------+--------+----------+------------+
-|   Sender   |  Recipient  | Amount | Currency |    Date    |
-+------------+-------------+--------+----------+------------+
-| John Doe   | Jane Smith  | 500.00 | USD      | 2025-01-02 |
-| Alice Wong | Bob Johnson | 300.00 | EUR      | 2025-01-01 |
-+------------+-------------+--------+----------+------------+
-```
+
+![](images/fig-1.png)
 
 ### 2. Sample Graph
 - A graph showing monthly or yearly remittance trends.
+#### Yearly Preview
+![](images/fig-3.png)
+#### Monthly Preview
+![](images/fig-4.png)
 
 ### 3. Exported PDF
 - Includes a table of all records and summary statistics.
+![](images/fig-2.png)
 
 ## License
 
@@ -86,4 +85,4 @@ Feel free to fork this repository and contribute to improvements. If you have su
 
 ## Author
 
-This project is developed by **Protik Das Utso**. You can reach me via email at [protikdas018830@gmail.com](mailto:protikdas018830@gmail.com) or WhatsApp at [Click to message me](https://wa.me/8801883044415).
+This project is developed by **Protik Das Utso**. You can reach me via email at [anamulhaque9455@gmail.com](mailto:anamulhaque9455@gmail.com) or WhatsApp at [Click to message me](https://wa.me/8801703989455).
